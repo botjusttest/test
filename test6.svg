@@ -1,0 +1,11 @@
+<svg viewbox="0 0 880 410">
+    <defs>
+      <!-- der Script Bereich -->
+      <script type="text/javascript">
+      alert(1)
+      </script>
+    </defs>
+  
+    <circle cx="100" cy="100" r="25" fill="#c32e04" onclick="meldung()" />
+	
+  </svg>
